@@ -9,3 +9,31 @@ For our project, the prerequisites are:
 4. Provide AWS credentials in the CLI. Also shown in the above link.
 5. See if everything is installed and working correctly.
 6. Open Editor and create the necessary files.
+
+The topics which were covered in this repo are mentioned below:
+## Topics covered
+1. Infrastructure as Code IaC Basics
+2. Terraform Fundamental Block
+   -  Terraform Block
+   -  Provider Block
+3. Terraform Resource
+   - Resource Syntax and Behavior
+4. Meta Argument
+   - depends_on
+   - count
+   - for_each
+5. Terraform Variable
+   - Input variable
+   - Sensitive input variable
+   - File Function
+   - Variable assigned when prompt
+   - Override default with cli variable
+   - Override default with Environment variable
+   - Assign with terraform .tfvars
+   - Assign with terraform .auto.tfvars
+   - List
+   - Map
+   - Variable validation rule
+6. Terraform Output
+7. Terraform local values
+8. Terraform Datasources
